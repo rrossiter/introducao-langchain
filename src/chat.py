@@ -1,5 +1,6 @@
 from search import search_prompt
 
+
 def main():
     print("=== Chat Iniciado ===")
     print("Digite 'sair' para encerrar.\n")

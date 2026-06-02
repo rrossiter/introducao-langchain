@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 
+
 from langchain_openai import OpenAIEmbeddings
 from langchain_postgres import PGVector
 from langchain_openai import ChatOpenAI
